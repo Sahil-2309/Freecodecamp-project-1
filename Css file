@@ -1,0 +1,52 @@
+#title{
+    margin:26.8px;
+}
+#img-div{
+        background: white;
+    padding: 10px;
+    margin: 0;
+}
+#image{
+       
+  height: auto;
+  max-width:100%;
+}
+#img-caption{
+  margin:15px 0px 5px 0px;
+}
+figcaption{
+    display:block;
+}
+img{
+    display:block;
+}
+#tagline{
+    margin:16px 0px;
+}
+#tribute-link{
+    text-decoration: underline;
+cursor: pointer;
+color: #477ca7;
+}
+#main{
+    margin:30px 8px;
+    padding:15px;
+    background-color:	#EEEEEE;
+    color:#333333;
+    font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+      text-align:center;
+}
+#headline{
+    margin:50px 0px;
+    font-size: 1.2em;
+    display: block;
+}
+ul {
+    max-width: 550px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    line-height: 1.6;
+}
+li{
+    margin:16px;
+}
